@@ -5,7 +5,7 @@ const Landing: React.FC = () => {
     const shapeClass = {
         small: 'rounded-sm',
         medium: 'rounded-md',
-        large: 'rounded-full'
+        large: 'rounded-lg'
     }
     return (
         <div>
